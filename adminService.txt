@@ -2,7 +2,7 @@ add and remove users
 change roles
 
 manage the DB
-closing the database connection
+closing the mysql database connection
 
 change 1
 change 2 in Affan's database
