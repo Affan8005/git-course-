@@ -5,4 +5,5 @@ manage the DB
 closing the connection
 
 change 1
-change 2 in my database
+change 2 in Affan's database
+>>>>>>> feature3
